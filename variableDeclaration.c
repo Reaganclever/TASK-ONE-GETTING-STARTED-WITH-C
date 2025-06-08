@@ -6,12 +6,12 @@ void declareAndPrintVariables(){
 int age = 29;
 float height = 5.4570f;
 double distance = 12345;
-char initial = 'K';
+char initial = 'R';
 
 printf("NEWEST AGE:  %d\n" , age);
 printf(" NEW ORIGINAL HEIGHT:  %f\n" , height);
 printf("NEWEST DISTANCE:  %lf\n" , distance);
-printf(" NEW INITIAL:   %c\n" , initial);
+printf(" NEWER INITIAL:   %c\n" , initial);
 
 }
 
